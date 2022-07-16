@@ -1,6 +1,6 @@
-### Web Developer
+## Web Developer
 
-:computer: ​Tech stack**
+#### :computer: ​`Tech stack`
 
 - Java, Javascript(ES5,ES6), Jquery, HTML5
 - Spring Framework(Boot), Oracle, MySQL
