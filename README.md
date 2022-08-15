@@ -12,5 +12,5 @@
 
 * Linux, SVN, Git, Github, Jenkins, AWS(EC2, Route53, RDS)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeesnghyun&show_icons=true&theme=graywhite)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeesnghyun&show_icons=true&theme=apprentice)
 
