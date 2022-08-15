@@ -1,6 +1,4 @@
-## Web Developer
-
-#### :computer: ​`Tech stack`
+## :computer: ​`Tech stack`
 
 * HTML5, CSS
 
