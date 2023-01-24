@@ -6,7 +6,7 @@
 
 * Spring framework(Boot), Bootstrap, MyBatis
 
-* SVN, Git, Github, Jenkins
+* SVN, Git, Jenkins
 
 * AWS(EC2, Route53, RDS)
 
