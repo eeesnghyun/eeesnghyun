@@ -4,7 +4,7 @@
 
 * Javascript(ES6+), jquery
 
-* Spring framework(Boot), Bootstrap, MyBatis
+* Spring framework(Boot), JPA, MyBatis
 
 * SVN, Git, Jenkins
 
