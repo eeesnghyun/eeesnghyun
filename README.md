@@ -1,10 +1,10 @@
 ## :computer: ​`Tech stack`
 
-* Java, Oracle, MySQL
+* Java, Spring framework(Boot), JPA, MyBatis
 
 * Javascript(ES6+), jquery
 
-* Spring framework(Boot), JPA, MyBatis
+* Oracle, MySQL
 
 * SVN, Git, Jenkins
 
