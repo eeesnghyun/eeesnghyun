@@ -1,7 +1,7 @@
 ## :computer: ​`Tech stack`
 
 * Java, Spring framework(Boot), JPA, MyBatis
-
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 * Javascript(ES6+), jquery
 
 * Oracle, MySQL
