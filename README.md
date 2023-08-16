@@ -11,10 +11,10 @@
 * AWS
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eeesnghyun&show_icons=true&theme=rose_pine" />
+  <img width=300 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eeesnghyun&show_icons=true&theme=rose_pine" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eeesnghyun&layout=compact&langs_count=6&card_width=320&hide=html,css&theme=rose_pine" />
+  <img width=300 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eeesnghyun&layout=compact&langs_count=6&card_width=320&hide=html,css&theme=rose_pine" />
 </a>
 
 <!-- 
