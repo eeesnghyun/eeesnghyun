@@ -11,7 +11,7 @@
 * AWS
 
 <a href="https://github.com/anuraghazra/github-readme-stats" style="float: left">
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=eeesnghyun&show_icons=true&theme=rose_pine" />
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=eeesnghyun&show_icons=true&theme=rose_pine&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat" style="float: right">
   <img width=305 src="https://github-readme-stats.vercel.app/api/top-langs?username=eeesnghyun&layout=compact&langs_count=6&hide=html,css&theme=rose_pine" />
